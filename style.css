@@ -1,0 +1,475 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+ul a {
+    text-decoration: none;
+    margin: 0 6px 0 5px;
+    justify-content: center;
+    color:rgb(58, 56, 56);
+   
+}
+.navbar1{
+    display: flex;
+    background-color: rgb(209, 214, 218);
+  width: 95%;
+    margin-left: 10%;
+   
+}
+.collumn{
+    margin-top: 38px;
+    margin-left: 35%;
+}
+.logo h3{
+    font-size: 12px;
+    font-family: 'Pacifico', cursive;
+}
+.mainw{
+    width: 1000px;
+    margin-left: 15%;
+}
+.picsal{
+background-image: url(wper.jpeg);
+background-size: 1000px;
+height: 550px;
+background-repeat: no-repeat;
+margin-left: 15%;
+}
+.picsal h1{
+    font-size: 30px;
+    color: #ffff;
+   width: 655px;
+   text-align: center;
+   margin-left: 140px;
+   padding-top: 20px;
+}
+.picsal p{
+    width: 900px;
+   color: rgb(226, 229, 231);
+    font-size: 22px;
+    margin-left:60px ;
+    padding-top: 50px;
+}
+.mail a {
+    background: linear-gradient( 90deg, white, rgb(113, 173, 226));
+    text-decoration: none;
+    color: black;
+    padding: 8px 22px 8px 10px;
+    width: 22%;
+   
+}
+.git{
+    background: linear-gradient( 90deg, rgb(113, 173, 226) ,white );
+    text-decoration: none;
+    color: black;
+     padding: 8px 70px 8px 60px;
+    margin-top: 40px;
+   display: inline-block;
+   position: relative;
+   border-radius: 0 15px 0 0;
+}
+.mail3 a{
+    justify-content: end;
+   
+    
+
+}
+.fiver{
+    background: linear-gradient( 90deg, white, rgb(113, 173, 226));
+    text-decoration: none;
+    color: black;
+   margin-top: 30px;
+    padding: 8px 70px 8px 20px;
+    display: inline-block;
+    position: relative;
+}
+.card1{
+    width: 18%;
+    margin-left:20px;
+    background-color: orange;
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.card2{
+    width: 18%;
+    margin-left:20px;
+    background-color: rgb(114, 110, 110);
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 90px;
+
+}
+.card3{
+    width: 18%;
+    margin-left:20px;
+    background-color: rgb(210, 228, 243);
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+   margin-left: 90px;
+   box-shadow: 0 0 2px;
+}
+.box{
+display: flex;
+margin-left: 10%;
+z-index: 0;
+}
+.make{
+   margin-left: 40%;
+   margin-top: 30px;
+}
+.boxs1{
+    width: 18%;
+    margin-left:20px;
+    background-color: rgb(210, 228, 243);
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+   margin-left: 90px;
+   box-shadow: 0 0 2px;
+}
+.boxs2{
+    width: 18%;
+    margin-left:20px;
+    background-color: rgb(34, 34, 145);
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 90px;
+    color: aliceblue;
+}
+.boxs3{
+    width: 18%;
+    margin-left:20px;
+    background-color: orange;
+    padding-top: 15px;
+    padding-left: 9px;
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 90px;
+    
+}
+.box2nd{
+    display: flex;
+    margin-left: 10%;
+}
+.chs{
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.choose p{
+    font-weight: 500;
+}
+.abt{
+    width: 30%;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.choose{
+    display: flex;
+    margin-top: 50px;
+}
+.image{
+    margin-left: 50px;
+}
+.skill button{
+    border: 1px solid orange;
+background-color:orange ;
+padding: 6px 32px 6px 32px;
+border-radius: 18px;
+color: #ffff;
+margin-top: 10px;
+margin-left: 60px;
+}
+.skill{
+    width: 60%;
+    background-image: url(int.jpg);
+    background-size: 1000px;
+    height: 420px;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    margin-top: 70px;
+
+}
+.skill h4{
+    color: #ffff;
+    width: 420px;
+    margin-left: 60px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+.supe{
+    color: blue;
+  }
+  .our{
+    color: #000;
+    font-weight:600;
+  }
+  
+  .demo{
+    background-color:rgb(237, 232, 225);
+  
+  }
+  
+  .collaps{
+    background-color: rgb(222, 217, 211);
+  }
+  .tooltip{
+    color: #000;
+  }
+  .con{
+    position: relative;
+    max-width: 100vh;
+    
+    /* background-color: antiquewhite; */
+    padding: 10px 20px;
+    border-radius: 7px;
+    
+  }
+  .con .skill-box{
+    width: 100%;
+   
+  }
+  .skill-box .title{
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+  }
+  .skill-box .skill-bar{
+    height: 8px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 6px;
+    background-color: rgb(185, 176, 176);
+  }
+  .skill-bar .skill-per{
+  position: relative;
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  width: 85%;
+  background: #4070f4;
+  }
+  .skill-per .tool-tip{
+    position: absolute;
+    right: -14px;
+    top: -28px;
+  font-size: 9px;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 3px;
+  color: #ffffff;
+    background: #4070f4;
+   z-index: 1;
+  }
+  .tool-tip::before{
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    height: 10px;
+    width: 10px;
+    left: 40%;
+    z-index: -1;
+    background: #4070f4;
+    transform: translateY(-50%) rotate(45deg);
+  }
+  .con1{
+    position: relative;
+    max-width: 100vh;
+    margin: 0 2px;
+    /* background-color: antiquewhite; */
+    padding: 10px 20px;
+    border-radius: 7px;}
+    .con1 .skillbox1{
+    /* width: 100%; */
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+    }
+      
+    .skillbox1 .skillbar1{
+    height: 8px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 2px;
+    background-color: rgb(185, 176, 176);
+  }
+  
+  .skillbar1 .skillper1{
+  position: relative;
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  width: 95%;
+  background: #4070f4;
+  }
+  .skillper1 .tooltip1{
+    position: absolute;
+    right: -14px;
+    top: -28px;
+  font-size: 9px;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 3px;
+  color: #ffffff;
+    background: #4070f4;
+   z-index: 1; color: o;
+  }
+  .tooltip1::before{
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    height: 10px;
+    width: 10px;
+    left: 40%;
+    z-index: -1;
+    background: #4070f4;
+    transform: translateY(-50%) rotate(45deg);
+  }
+  .our{
+    margin-left: 20px;
+  }
+  .supe{
+    margin-left: 20px;
+  }
+  .point{
+    margin-left: 20px;
+  }
+  .con2{
+    position: relative;
+    max-width: 100vh;
+    font-weight: 600;
+    font-size: 14px;
+    /* background-color: antiquewhite; */
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: #000;
+    
+  }
+  .con2 .skillbox2{
+    width: 100%;
+   }
+   .skillbox2 .title2{
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+  }
+  .skillbox2 .skillbar2{
+    height: 8px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 6px;
+    background-color: rgb(185, 176, 176);
+  }
+  .skillbar2 .skillper2{
+  position: relative;
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  width: 80%;
+  background: #4070f4;
+  }
+  .skillper2 .tooltip2{
+    position: absolute;
+    right: -14px;
+    top: -28px;
+  font-size: 9px;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 3px;
+  color: #ffffff;
+    background: #4070f4;
+   z-index: 1;
+  }
+  .tooltip2::before{
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    height: 10px;
+    width: 10px;
+    left: 40%;
+    z-index: -1;
+    background: #4070f4;
+    transform: translateY(-50%) rotate(45deg);
+  }
+  .design{
+    margin-left: 10%;
+  }
+  .years img{
+    border-radius: 40px;
+    margin-left: 25%;
+    margin-top: 15%;
+   z-index: 0;
+  }
+  .demo{
+    display: flex;
+  }
+  .design{
+    margin-top: 5%;
+  }
+  .years button{
+    background-color: aliceblue;
+    padding: 10px 45px;
+    font-weight: 600;
+    position: relative;
+    z-index: 1;
+    border: 1px solid #ffffff;
+  margin-top:-40%;
+  margin-left: 40%;
+  }
+  b{
+    font-size: 35px;
+    color: rgb(246, 110, 61);
+  }
+  .ftr{
+    width: 18%;
+    color: #ffffff;
+   margin-top: 50px;
+   margin-left: 25px;
+  }
+  .footer{
+ 
+    background-color: #000;
+    height: 550px;
+   
+  }
+.ftr h5{
+  color: deeppink;
+}
+
+.footer1{
+  display: flex;
+}
+hr{
+  color: white;
+  width: 100%;
+  font-weight: 800;
+  padding-left: 10%;
+  margin-top: 10%;
+  display: inline-block;
+  position: relative;
+}
